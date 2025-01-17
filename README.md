@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Simón</h1>
-<h3 align="justify">Electronic Engineer and Backend Software Developer based in Argentina. Presently employed at Mercado Libre as a Software Developer.</h3>
+<h3 align="justify">Electronic Engineer and Backend Software Developer based in Argentina.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=simoncito7&label=Profile%20views&color=0e75b6&style=flat" alt="simoncito7" /> </p>
 
